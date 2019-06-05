@@ -132,7 +132,9 @@ Georeferencing is made possible by adding latitude and longitude lines to the ba
  ##### Transforming the Image
  Transforming the image allows the raster image to be manipulated so the control points are aligned.
  1. To transform the image, ensure that all necessary control points have been placed. 
- Note: You can add more control points even after the image has been transformed.
+ 
+ *Note: You can add more control points even after the image has been transformed.*
+ 
  2. Click the **down arrow** under the *Transformation* icon in the adjust section of the georeference tab. Then select the desired transformation.
  
  ![Transformation](images/Transformation.PNG)
