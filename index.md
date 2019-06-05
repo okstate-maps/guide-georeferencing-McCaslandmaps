@@ -6,13 +6,19 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ## Table of Contents
 - Introduction 
+- McCasland Maps
+- - Has this map already been georeferenced?
+- - Locating the File
 - *Georeferencing with ArcPro*
 - - Starting a New Project
 - - Adding Files
-- - Adding Control Points
-- - Transforming the Image
-- - Deleting Control Points
+- - Georeferencing
+- - - Adding Latitude and Longitude Lines
+- - - Adding Control Points
+- - - Transforming the Image
+- - - Deleting Control Points
 - - Saving the Project
+- - Ensuring Proper File Location
 - Conclusion
 - Further Reading/Resources
 
