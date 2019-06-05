@@ -41,7 +41,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 
 ![Folder Maze 2](images/FolderMaze2.PNG)
 
-*Note: If the file name is in this folder, the map has already been georeferenced.
+*Note: If the file name is in this folder, the map has already been georeferenced.*
 
 ### Locating the File 
 1. To locate this map on the desktop, click **Digitization (\\ulib.okstate.edu)(T:)** aka the *T File*.
@@ -91,7 +91,7 @@ Now that a new project has been created, a folder connection must be added to im
 
 ![Added File](images/AddedFile.PNG)
 
-*Note: For georeferencing in ArcPro, JPGs are the preferred file type. 
+*Note: For georeferencing in ArcPro, JPGs are the preferred file type.* 
 
 #### Georeferencing
 Once a file has been added to the project, the georeferencing process can begin. 
@@ -123,11 +123,11 @@ Georeferencing is made possible by adding latitude and longitude lines to the ba
  
  ![Control Point](images/ControlPoint.PNG)
  
- 6. Continue this step until enough control points are added for the desired transformation. The more control points that are added, the more precise the transformation will be. It is also best to have the control points evenly distributed throughout the map to reduce the chances of a skewed image.   
+ 6. Continue this step until enough control points are added for the desired transformation.   
  
  ![Control Points](images/ControlPoints.PNG)
  
- *Note: Spline is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when this number of control points is not possible.
+*Note: A minimum of four control points should be placed. **Spline** is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when this number of control points is not possible. The more control points that are added, the more precise the transformation will be. Also, it is best to have the control points evenly distributed throughout the map to reduce the chances of transformation error.*
   
  ##### Transforming the Image
  Transforming the image allows the raster image to be manipulated so the control points overlap.
@@ -137,7 +137,7 @@ Georeferencing is made possible by adding latitude and longitude lines to the ba
  
  ![Transformation](images/Transformation.PNG)
  
- *Note: **Spline** is preffered because it renders the most accurate transformations.
+ *Note: **Spline** is preffered because it renders the most accurate transformations.*
  
  3. The image is now transformed and can be saved or edited if desired.
  
