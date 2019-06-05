@@ -170,7 +170,7 @@ When finished with the project, it is important to ensure that it is saved prope
 
 ![Export Control Point](images/ExportControlPoints.PNG)
 
-2. Name the file the same as the JPG and the TIF files and save it in the same folder where the TIF was first located.
+2. Name the file the same as the JPG and the TIF files and save it in the same folder where the TIF is located.
 
 After all of this is done, it is important that the project is closed correctly.
 1. Click **Close Georeference** under the *Georeference* tab of the toolbar.
