@@ -47,7 +47,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 1. To locate this map on the desktop, click **Digitization (\\ulib.okstate.edu)(T:)** aka the *T File*.
 2. Click the **Maps** folder.
 3. Click **Maps_00**.
-4. Select the **McCalsand** folder. Here you will see folders sorted by numbers (how to word this?).
+4. Select the **McCalsand** folder. Here you will see folders sorted by equal intervals.
 
 ![Folder Numbers](images/FolderNumbers.PNG)
 
