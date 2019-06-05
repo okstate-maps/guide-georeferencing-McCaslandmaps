@@ -9,7 +9,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - McCasland Maps
 - - Has this map already been georeferenced?
 - - Locating the File
-- *Georeferencing with ArcPro*
+- *Georeferencing with ArcGIS Pro*
 - - Starting a New Project
 - - Adding Files
 - - Georeferencing
@@ -67,7 +67,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 
 ![JPEG Options](images/JPEGOptions.PNG)
 
-## *Georeferencing with ArcPro*
+## *Georeferencing with ArcGIS Pro*
 #### Starting a New Project
 1. To begin a new project, open ArcGIS on your desktop.
 2. Click **Map** under *New, Blank Templates*.
@@ -91,7 +91,7 @@ Now that a new project has been created, a folder connection must be added to im
 
 ![Added File](images/AddedFile.PNG)
 
-*Note: For georeferencing in ArcPro, JPGs are the preferred file type.* 
+*Note: For georeferencing in ArcGIS Pro, JPGs are the preferred file type.* 
 
 #### Georeferencing
 Once a file has been added to the project, the georeferencing process can begin. 
@@ -175,7 +175,7 @@ After all of this is done, it is important that the project is closed correctly.
 
 ![Close](images/Close.PNG)
 
-The project can be closed and ArcPro can be exited. 
+The project can be closed and ArcGIS Pro can be exited. 
 
 #### Ensuring Proper File Locations
 Once a map has been georeferenced, some of the files must be moved to the folder containing the completed map information. 
@@ -189,7 +189,7 @@ Once a map has been georeferenced, some of the files must be moved to the folder
 5. Open the **McCasland_Georeferencing** folder. Right click within the folder and select **Paste**. The three selected files should appear in this folder. 
 
 ## Conclusion
-Georeferencing is a very usefull skill and is made simple by ArcPro. It only takes a little practice and time to transform a raster image by addind geographic information to its pixels. 
+Georeferencing is a very usefull skill and is made simple by ArcGIS Pro. It only takes a little practice and time to transform a raster image by addind geographic information to its pixels. 
 
 ## Further Reading/Resources
 
