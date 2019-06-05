@@ -179,12 +179,14 @@ The project can be closed and ArcPro can be exited.
 
 #### Ensuring Proper File Locations
 Once a map has been georeferenced, some of the files must be moved to the folder containing the completed map information. 
-1. Open **Digitization (\\ulib.okstate.edu)(T:)**, **Maps**, **Maps_00**, **McCalsand**.
+1. Open **Digitization (\\ulib.okstate.edu)(T:)**, **Maps**, **Maps_00**, **McCasland**.
 2. Locate the files for the map that was georeferenced. 
+3. Select the *JGWX* and *JPG* files as well as the *XML* document by holding *Ctrl* on the keypad and clicking on all three files. They should be highlighted after they are clicked. Leave the TIF file. 
 
-![Completed Map Files](images/CompletedMapFiles.PNG)
+![Selected Files](images/SelectedFiles.PNG)
 
-3.
+4. Right click in the highlighted area and click **Cut**.
+5. Open the **McCasland_Georeferencing** folder. Right click within the folder and select **Paste**. The three selected files should appear in this folder. 
 
 ## Conclusion
 
