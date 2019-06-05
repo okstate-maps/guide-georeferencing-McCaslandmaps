@@ -189,6 +189,7 @@ Once a map has been georeferenced, some of the files must be moved to the folder
 5. Open the **McCasland_Georeferencing** folder. Right click within the folder and select **Paste**. The three selected files should appear in this folder. 
 
 ## Conclusion
+Georeferencing is a very usefull skill and is made simple by ArcPro. It only takes a little practice and time to transform a raster image by addind geographic information to its pixels. 
 
 ## Further Reading/Resources
 
