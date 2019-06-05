@@ -130,7 +130,7 @@ Georeferencing is made possible by adding latitude and longitude lines to the ba
 *Note: A minimum of four control points should be placed. **Spline** is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when this number of control points is not possible. The more control points that are added, the more precise the transformation will be. Also, it is best to have the control points evenly distributed throughout the map to reduce the chances of transformation error.*
   
  ##### Transforming the Image
- Transforming the image allows the raster image to be manipulated so the control points overlap.
+ Transforming the image allows the raster image to be manipulated so the control points are aligned.
  1. To transform the image, ensure that all necessary control points have been placed. 
  Note: You can add more control points even after the image has been transformed.
  2. Click the **down arrow** under the *Transformation* icon in the adjust section of the georeference tab. Then select the desired transformation.
