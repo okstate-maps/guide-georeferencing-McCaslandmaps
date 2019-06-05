@@ -13,7 +13,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Starting a New Project
 - - Adding Files
 - - Georeferencing
-- - - Adding Latitude and Longitude Lines
+- - - Adding Latitude and Longitude
 - - - Adding Control Points
 - - - Transforming the Image
 - - - Deleting Control Points
