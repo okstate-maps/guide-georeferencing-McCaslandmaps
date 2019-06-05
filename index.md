@@ -28,7 +28,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 
 ![File Name](images/FileName.PNG)
 
-### Has this map been georeferenced before?
+### Has this map already been georeferenced?
 1. To locate this map on the desktop, click **Digitization (\\ulib.okstate.edu)(T:)** aka the *T File*.
 2. Click the **Maps** folder.
 3. Click **MPSI_Aerials**.
