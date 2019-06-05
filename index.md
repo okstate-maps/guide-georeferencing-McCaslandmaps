@@ -74,7 +74,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
     
 ![New Project](images/NewProject.PNG)
 
-3. Name the project and choose a file location that will be easy to access. Then click **OK**. A new screen should open with a map of the world.
+3. Name the project and choose a file location that will be easy to access. Then click **OK**. A world map screen should open.
 
 #### Adding Files
 Now that a new project has been created, a folder connection must be added to import data. 
