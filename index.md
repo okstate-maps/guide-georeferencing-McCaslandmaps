@@ -17,7 +17,6 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Further Reading/Resources
 
 ## Introduction
-
 Georeferencing is the process of adding geographic information to a raster image (i.e. maps, satelite images and aerial photographs) so mapping software can place the image in its real world location. This is done by assigning geographic coordinates to the raster's pixels. 
 
 ## McCasland Maps
@@ -33,21 +32,26 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 2. Click the **Maps** folder.
 3. Click **MPSI_Aerials**.
 4. Select the **McCasland_Georeferencing** folder and search for the map's file name.
+
+![Folder Maze 2](images/FolderMaze2.PNG)
+
 *Note: If the file name is in this folder, the map has already been georeferenced.
 
 ### Locating the File 
 1. To locate this map on the desktop, click **Digitization (\\ulib.okstate.edu)(T:)** aka the *T File*.
 2. Click the **Maps** folder.
 3. Click **Maps_00**.
-4. Select the **McCalsand** folder. Here you will see folders sorted by numbers (how to word this).
+4. Select the **McCalsand** folder. Here you will see folders sorted by numbers (how to word this?).
 
 ![Folder Numbers](images/FolderNumbers.PNG)
 
 5. Select the folder that contains the file name of the map you chose and locate to correspondig TIF File.
+
+![Folder Maze](images/FolderMaze.PNG) 
+
 6. Open the file in *Adobe Photoshop* and click **File, Save As**. 
 
 ![Save as JPEG](images/SaveAsJPG.PNG)
-
 
 7. Make sure to name this new file exactly as the TIF is named and change the *Save as Type* to **JPEG**. Then hit **Save**.
 
@@ -58,9 +62,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 ![JPEG Options](images/JPEGOptions.PNG)
 
 ## *Georeferencing with ArcPro*
-
 #### Starting a New Project
-
 1. To begin a new project, open ArcGIS on your desktop.
 2. Click **Map** under *New, Blank Templates*.
     
@@ -86,9 +88,7 @@ Now that a new project has been created, a folder connection must be added to im
 *Note: For georeferencing in ArcPro, JPGs are the preferred file type. 
 
 #### Georeferencing
-
 Once a file has been added to the project, the georeferencing process can begin. 
-
 1. In order to start georeferencing, desired file must be selected in the contents pane.
 2. Click **Georeference** under the *Imagery* tab of the toolbar. A new *Georeference* tab should appear on the toolbar. 
 
@@ -99,9 +99,11 @@ Once a file has been added to the project, the georeferencing process can begin.
 ![Fit to Display](images/FittoDisplay.PNG)
 
 #### Adding Latitude and Longitude
+Georeferencing is made possible by adding latitude and longitude lines to the basemap. 
+1.
+
  ##### Adding Control Points
  Control points are used to align pixels on the raster image with real life coordinates. 
-
  1. To add control points, click **Add Control Points** in the *Adjust* column of the *Georeference* tab.
  
  ![Add Control Points](images/AddControlPoints.PNG)
@@ -123,7 +125,6 @@ Once a file has been added to the project, the georeferencing process can begin.
   
  ##### Transforming the Image
  Transforming the image allows the raster image to be manipulated so the control points overlap.
- 
  1. To transform the image, ensure that all necessary control points have been placed. 
  Note: You can add more control points even after the image has been transformed.
  2. Click the **down arrow** under the *Transformation* icon in the adjust section of the georeference tab. Then select the desired transformation.
@@ -153,7 +154,6 @@ Do not fret if a control point is misplaced or results in a skewed image. They a
 
 #### Saving the Project
 When finished with the project, it is important to ensure that it is saved properly. Clicking the save icon in the top left corner of the screen will not save the georeferenced data. 
-
 There are two ways to ensure a proper save.
 -1. Click **Save** in the *Save* section of the *Georeference* tab. This will update the existing raster file that was imported into the project
 
