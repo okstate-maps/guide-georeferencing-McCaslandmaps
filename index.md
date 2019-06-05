@@ -98,9 +98,9 @@ Once a file has been added to the project, the georeferencing process can begin.
 
 ![Fit to Display](images/FittoDisplay.PNG)
 
-#### Adding Latitude and Longitude
+##### Adding Latitude and Longitude
 Georeferencing is made possible by adding latitude and longitude lines to the basemap. 
-1.
+1. 
 
  ##### Adding Control Points
  Control points are used to align pixels on the raster image with real life coordinates. 
@@ -154,21 +154,15 @@ Do not fret if a control point is misplaced or results in a skewed image. They a
 
 #### Saving the Project
 When finished with the project, it is important to ensure that it is saved properly. Clicking the save icon in the top left corner of the screen will not save the georeferenced data. 
-There are two ways to ensure a proper save.
--1. Click **Save** in the *Save* section of the *Georeference* tab. This will update the existing raster file that was imported into the project
+1. Click **Save** in the *Save* section of the *Georeference* tab. This will update the existing raster file that was imported into the project.
 
 ![Save](images/Save.PNG)
 
--2. Click **Save as New** in the *Save* section of the *Georeference tab*. This will allow a new and seperate file to be created. The file can be renamed and saved in the desired location.
-
-![Save as New](images/SaveAsNew.PNG)
-
-You can also export the control point data as a seperate file.
 1. Click **Export Control Points** in the *Save* section of the *Georeference* tab. This will create a text file with all of the control point data.
 
 ![Export Control Point](images/ExportControlPoints.PNG)
 
-2. Name the file and save it in the desired location.
+2. Name the file the same as the JPG and the TIF files and save it in the same folder where the TIF was first located.
 
 After all of this is done, it is important that the project is closed correctly.
 1. Click **Close Georeference** under the *Georeference* tab of the toolbar.
@@ -177,7 +171,14 @@ After all of this is done, it is important that the project is closed correctly.
 
 The project can be closed and ArcPro can be exited. 
 
-(What about the lat and long lines?)
+#### Ensuring Proper File Locations
+Once a map has been georeferenced, some of the files must be moved to the folder containing the completed map information. 
+1. Open **Digitization (\\ulib.okstate.edu)(T:)**, **Maps**, **Maps_00**, **McCalsand**.
+2. Locate the files for the map that was georeferenced. 
+
+![Completed Map Files](images/CompletedMapFiles.PNG)
+
+3.
 
 ## Conclusion
 
