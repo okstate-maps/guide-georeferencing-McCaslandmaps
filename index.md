@@ -27,7 +27,7 @@ Georeferencing is the process of adding geographic information to a raster image
 
 ## McCasland Maps
 There are many steps to locating and selecting a McCasland map for georeferencing.
-1. Open a web browser and visit the [OSU Library McCasland Maps Collection](https://dc.library.okstate.edu/digital/collection/OKMaps/search/searchterm/McCasland%20Maps/field/collec/mode/exact/conn/and/order/nosort)
+1. Open a web browser and visit the [OSU Library McCasland Maps Collection](https://dc.library.okstate.edu/digital/collection/OKMaps/search/searchterm/McCasland%20Maps/field/collec/mode/exact/conn/and/order/nosort).
 2. Browse the maps collection until you find a map with latitude and longitude lines.
 3. Click on the map and scroll to the bottom of the page where you will find the file name.
 
