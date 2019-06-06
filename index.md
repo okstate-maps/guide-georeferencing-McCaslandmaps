@@ -51,7 +51,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 
 ![Folder Numbers](images/FolderNumbers.PNG)
 
-5. Select the folder that contains the file name of the map you chose and locate to correspondig TIF File.
+5. Select the folder that contains the file name of the map you chose and locate the correspondig TIF File.
 
 ![Folder Maze](images/FolderMaze.PNG) 
 
