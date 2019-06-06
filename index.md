@@ -1,5 +1,5 @@
 ## About
-Last Updated *[06/05/2019]*   
+Last Updated *[06/06/2019]*   
 Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room)
 
 ![img example](images/OSULogo.png)
@@ -167,7 +167,7 @@ When finished with the project, it is important to ensure that it is saved prope
 
 ![Save](images/Save.PNG)
 
-1. Click **Export Control Points** in the *Save* section of the *Georeference* tab. This will create a text file with all of the control point data.
+1. Click **Export Control Points** in the *Save* section of the *Georeference* tab. This will create a text file that contains the control point data.
 
 ![Export Control Point](images/ExportControlPoints.PNG)
 
