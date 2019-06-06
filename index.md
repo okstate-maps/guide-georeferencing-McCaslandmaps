@@ -69,7 +69,7 @@ There are many steps to locating and selecting a McCasland map for georeferencin
 
 ## *Georeferencing with ArcGIS Pro*
 #### Starting a New Project
-1. To begin a new project, open ArcGIS on your desktop.
+1. To begin a new project, open ArcGIS Pro.
 2. Click **Map** under *New, Blank Templates*.
     
 ![New Project](images/NewProject.PNG)
