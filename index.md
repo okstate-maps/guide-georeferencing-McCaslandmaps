@@ -106,6 +106,7 @@ Once a file has been added to the project, the georeferencing process can begin.
 
 ##### Adding Latitude and Longitude
 Georeferencing is made possible by adding latitude and longitude lines to the basemap. 
+
 1. 
 
  ##### Adding Control Points
@@ -114,7 +115,7 @@ Georeferencing is made possible by adding latitude and longitude lines to the ba
  
  ![Add Control Points](images/AddControlPoints.PNG)
  
- 2. For maps, locate the point of an intersecting latitude and longitude line on the raster image and click. A red box should appear, indicating the selection on the map 
+ 2. For maps, locate and select the point of an intersecting latitude and longitude line on the raster image. A red box should appear, indicating the selection on the map. 
  
  ![Initial Selection](images/InitialSelection.PNG)
  
