@@ -120,7 +120,7 @@ Georeferencing is made possible by adding latitude and longitude lines to the ba
  ![Initial Selection](images/InitialSelection.PNG)
  
  3. Turn off the raster layer by clicking the check box next to its name in the *Contents* pane. 
- 4. Find the corresponding coordinates on the original world map and click. Be as precise as possible to ensure minimal error. Once this is done, a control point is added. 
+ 4. Find and select the corresponding coordinates on the original world map. Be as precise as possible to ensure minimal error. Once this is done, a control point is added. 
  
  ![Control Point](images/ControlPoint.PNG)
  
